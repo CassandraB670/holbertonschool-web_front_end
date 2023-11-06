@@ -365,3 +365,16 @@ Copy the content of 20-index.html into 21-index.html
         create a link to https://twitter.com/holbertonschool with the text Twitter
         create a link to https://www.instagram.com/holbertonschool/ with the text Instagram
         W3C won’t pass - you can ignore it
+
+Task 22 - "Button" links
+    File 22-index.html
+
+Copy the content of 21-index.html into 22-index.html
+
+    in the Hero section, after the heading
+        create a link to # with the text Get started
+    in the About Us section, after the div containing the level 3 headings and paragraphs
+        create a link to about.html with the text Learn more about us
+    in the Contact section, after the div containing the paragraph
+        create a link to contact.html with text Get in touch
+Does not need to pass W3C
