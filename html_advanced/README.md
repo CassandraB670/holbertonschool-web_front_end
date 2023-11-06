@@ -133,3 +133,13 @@ Copy the content of 6-index.html into 7-index.html
     create the nav tag inside the header tag
         it should remain empty for now
 Does not need to pass W3C
+
+Task 8 - Level 1 headings
+    File 8-index.html
+
+Copy the content of 7-index.html into 8-index.html
+
+    create the level 1 heading inside your main before your sections
+        put text Homepage in your heading tag
+Does not need to pass W3C
+
