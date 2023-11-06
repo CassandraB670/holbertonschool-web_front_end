@@ -76,3 +76,12 @@ Footer:
 
     create the footer tag after the main tag
         put the text Footer inside the footer tags
+
+Task 4 - Aside
+    File article.html
+
+Copy the contents of 3-index.html into article.html
+
+    change the <title> to put: Article - Techium
+    inside the main tags
+        after the text, create the aside tags with text Aside
