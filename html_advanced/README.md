@@ -551,3 +551,21 @@ The <th> tags containing Title, Director, Release Date should have a scope attri
 
 Due to previous task, does not have to pass W3C
 
+Task 34 - Details
+    File 34-styleguide.html
+
+Copy the content of 33-styleguide.html into 34-styleguide.html
+
+    in main tag after Table section
+        add a new line and a comment with text Details
+        create a new section
+            create a header, in the header add a level 2 heading with the text Details
+            after the header create a div
+                in the div add a level 3 heading with text Default
+                add a details element and specify Show/Hide me in the summary
+                add this text after the summary: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+            create another div
+                add a level 3 heading with text Open
+                add a details element that is open by default and specify Always open in the summary
+                add this text after the summary: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Due to earlier task, does not have to pass W3C
