@@ -353,3 +353,15 @@ Copy the content of 18-index.html into 20-index.html
 For now, the anchor links will not work. We will make them work in the CSS project.
 
 Does not need to pass W3C
+
+Task 21 - Add social media links
+    File 21-index.html
+
+Copy the content of 20-index.html into 21-index.html
+
+    in the div in the footer
+        remove any text you have
+        create a link to https://www.facebook.com/HolbertonSchool/ with the text Facebook
+        create a link to https://twitter.com/holbertonschool with the text Twitter
+        create a link to https://www.instagram.com/holbertonschool/ with the text Instagram
+        W3C won’t pass - you can ignore it
