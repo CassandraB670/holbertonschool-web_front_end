@@ -402,4 +402,15 @@ Copy the content of 23-index.html into 24-index.html
     in the div in the footer
         create an unordered list and put each anchor tag (Facebook, Twitter, …) as an individual list item
     W3C does not need to pass
-    
+
+Task 25 - Secondary navigation menu
+    File 25-index.html
+
+Copy the content of 24-index.html into 25-index.html
+
+    inside the footer, after the div
+        create a new div
+        in the new div create an unordered list with the following links:
+            link to # with text Terms of Use
+            link to # with text Privacy Policy
+            link to # with text Cookie Policy
