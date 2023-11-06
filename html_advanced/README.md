@@ -266,3 +266,13 @@ In the very first <header>,
 
     before the nav, create a span with the text Techium
 Does not need to pass W3C
+
+Task 15 - Div
+    File 15-index.html
+
+Copy the contents of 14-index.html into 15-index.html
+
+    Wrap the contents of the header element with a div
+    Wrap the contents of all section elements with a div
+    Finally, wrap the contents of the <footer> tag with a div
+W3C does not need to pass
