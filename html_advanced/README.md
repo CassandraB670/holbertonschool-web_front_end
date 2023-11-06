@@ -392,3 +392,14 @@ Copy the content of 22-index.html into 23-index.html
         in each level 3 heading, create a link to # around the text already in the heading
 Does not need to pass W3C
 
+Task 24 - List the links
+    File 24-index.html
+
+Copy the content of 23-index.html into 24-index.html
+
+    in the nav
+        create an unordered list, put each anchor tag (Home, Services, Works, …) as an individual list item
+    in the div in the footer
+        create an unordered list and put each anchor tag (Facebook, Twitter, …) as an individual list item
+    W3C does not need to pass
+    
