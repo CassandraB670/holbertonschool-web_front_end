@@ -455,3 +455,15 @@ Copy the content of 25-index.html into 27-index.html
         add a horizontal rule
         after the horizontal rule add a paragraph with text © 2020 Techium, made with ♥ by students at Holberton School.
 W3C does not need to pass.
+
+Task 28 - Horizontal rule example
+    File 28-styleguide.html
+
+Copy the content of 26-styleguide.html into 28-styleguide.html
+
+    in main after Lists section
+        add a new line and a comment with the text Horizontal rule
+        create a new section
+            create a header and inside it add a level 2 heading with the text Horizontal rule
+            after the header create a div and put a horizontal rule in it
+
