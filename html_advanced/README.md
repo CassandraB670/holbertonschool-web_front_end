@@ -319,3 +319,11 @@ Copy the content of 16-index.html into 17-index.html
     before the Contact section add a line break and a comment saying Contact section
 Does not need to pass W3C
 
+Task 18 - link your logo
+    File 18-index.html
+
+Copy the content of 17-index.html into 18-index.html
+
+    in the header, wrap the span with a link that redirects to the page at the root of your folder (/)
+    wrap the link with a div
+W3C does not need to pass
