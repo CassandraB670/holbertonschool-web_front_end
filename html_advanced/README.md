@@ -124,3 +124,12 @@ Testimonial articles:
             inside each article write Testimonial # where the hashtag will be the ordered number (1, 2, or 3)
 W3C won’t pass - you can ignore it
 
+Task 7 - Navigation
+    File 7-index.html
+
+Copy the content of 6-index.html into 7-index.html
+
+    remove the Header text inside the <header>
+    create the nav tag inside the header tag
+        it should remain empty for now
+Does not need to pass W3C
