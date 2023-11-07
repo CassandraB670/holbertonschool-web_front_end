@@ -173,7 +173,7 @@ h1, h2, h3, h4, h5, h6 {
 
 ul.row {
     margin: 0;
-    padding: none;
+    padding: 0;
     list-style: none;
 }
 
@@ -190,7 +190,7 @@ ul.row {
 }
 
 .footer-copyright {
-    margin: none;
+    margin: 0;
     font-size: var(--font-size-small);
     color: var(--text-color);
 }
