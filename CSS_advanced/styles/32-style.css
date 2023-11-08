@@ -68,7 +68,7 @@
     --header-logo-link-left: 0;
 
     --transition-duration: .3s;
-    --transition-cubic-bezier: cubic-bezier(0.17, 0.67, 0, 1.01);
+    --transition-cubic-bezier : cubic-bezier(0.17, 0.67, 0, 1.01)
 }
 
 *, *:before, *::after {
@@ -118,7 +118,8 @@ a:active {
     color: var(--button-hover-color);
     text-decoration: var(--button-hover-text-decoration);
     background-color: var(--button-hover-background);
-    transition: color var(--transition-duration), background-color var(--transition-duration);;
+    transition-duration: var(--transition-duration);
+    transition-property: color, background-color;
 }
 
 .visually-hidden {
@@ -215,7 +216,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: var(--color-white);
     width: 0;
     height: 0.2rem;
-    transition: var(–-transition-duration) var(--transition-cubic-bezier);
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
 .nav .nav-item:hover .nav-link::before {
@@ -403,14 +404,11 @@ ul.row {
     z-index: -1;
 }
 
-.card-work .card-image:hover {
+.card-work:hover .card-image {
     transform: scale(1.2);
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
 .card-work:hover .card-outer {
     transform: scale(0.95);
-}
-
-.card-work .card-image {
-    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
